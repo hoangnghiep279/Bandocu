@@ -1,0 +1,1406 @@
+============================================================================
+        Mon Jun 17 2024 09:11:34 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:18:55 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:19:26 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:20:39 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:21:46 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:22:13 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:28:27 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:28:35 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:29:16 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:30:07 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:31:04 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:31:22 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:32:49 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:56:07 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 09:56:31 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:00:13 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:03:37 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:03:40 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:03:41 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:03:41 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:03:49 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:04:55 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:05:47 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:07:15 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:07:39 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:08:15 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:09:04 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:10:10 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:11:56 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:12:29 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:12:51 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:13:25 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:13:26 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:13:26 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:13:27 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:15:08 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:15:08 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:15:09 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:15:09 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:15:38 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:15:39 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:15:39 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:15:39 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:16:56 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:17:55 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:18:05 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 10:19:26 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:86:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:31:18
+============================================================================
+        Mon Jun 17 2024 14:12:17 GMT+0700 (Indochina Time)
+        message: Bạn chưa đăng nhập!
+        stack: Error: Bạn chưa đăng nhập!
+    at checkLogin (E:\fronend\xdptpm\backend\src\api\midlewares\checkLogin.js:5:19)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:47:12)
+============================================================================
+        Mon Jun 17 2024 14:12:19 GMT+0700 (Indochina Time)
+        message: Bạn chưa đăng nhập!
+        stack: Error: Bạn chưa đăng nhập!
+    at checkLogin (E:\fronend\xdptpm\backend\src\api\midlewares\checkLogin.js:5:19)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:47:12)
+============================================================================
+        Mon Jun 17 2024 14:13:11 GMT+0700 (Indochina Time)
+        message: Bạn chưa đăng nhập!
+        stack: Error: Bạn chưa đăng nhập!
+    at checkLogin (E:\fronend\xdptpm\backend\src\api\midlewares\checkLogin.js:5:19)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:47:12)
+============================================================================
+        Mon Jun 17 2024 14:13:46 GMT+0700 (Indochina Time)
+        message: Bạn chưa đăng nhập!
+        stack: Error: Bạn chưa đăng nhập!
+    at checkLogin (E:\fronend\xdptpm\backend\src\api\midlewares\checkLogin.js:5:19)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:47:12)
+============================================================================
+        Mon Jun 17 2024 14:13:51 GMT+0700 (Indochina Time)
+        message: Bạn chưa đăng nhập!
+        stack: Error: Bạn chưa đăng nhập!
+    at checkLogin (E:\fronend\xdptpm\backend\src\api\midlewares\checkLogin.js:5:19)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:47:12)
+============================================================================
+        Mon Jun 17 2024 16:02:37 GMT+0700 (Indochina Time)
+        message: Không tìm thấy người dùng này!
+        stack: Error: Không tìm thấy người dùng này!
+    at Object.getDetailInfo (E:\fronend\xdptpm\backend\src\api\controllers\user.js:24:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:15:18
+============================================================================
+        Mon Jun 17 2024 16:18:03 GMT+0700 (Indochina Time)
+        message: Không tìm thấy người dùng này!
+        stack: Error: Không tìm thấy người dùng này!
+    at Object.getDetailInfo (E:\fronend\xdptpm\backend\src\api\controllers\user.js:24:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:15:18
+============================================================================
+        Mon Jun 17 2024 18:08:09 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:23:18
+============================================================================
+        Sat Jun 22 2024 10:38:08 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:23:18
+============================================================================
+        Sat Jun 22 2024 10:38:12 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:23:18
+============================================================================
+        Sat Jun 22 2024 10:57:28 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'id')
+        stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at checkMyAccount (E:\fronend\xdptpm\backend\src\api\midlewares\checkPermission.js:6:25)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:280:10)
+============================================================================
+        Sat Jun 22 2024 10:58:18 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'id')
+        stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at checkMyAccount (E:\fronend\xdptpm\backend\src\api\midlewares\checkPermission.js:6:25)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:280:10)
+============================================================================
+        Fri Jul 05 2024 12:48:11 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Fri Jul 05 2024 12:48:18 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Fri Jul 05 2024 12:48:19 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Fri Jul 05 2024 12:48:32 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Fri Jul 05 2024 21:27:33 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:84:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Fri Jul 05 2024 21:29:13 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:84:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Fri Jul 05 2024 21:32:00 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:84:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Fri Jul 05 2024 21:32:17 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:84:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Fri Jul 05 2024 21:34:53 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:84:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Fri Jul 05 2024 21:35:47 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:84:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Fri Jul 05 2024 21:42:46 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:84:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Fri Jul 05 2024 21:50:18 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:26:16 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:30:16 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:32:36 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:33:36 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:34:01 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:35:50 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:36:09 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:39:02 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:40:22 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:41:40 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:42:21 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:88:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:45:39 GMT+0700 (Indochina Time)
+        message: res is not defined
+        stack: ReferenceError: res is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:97:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:49:10 GMT+0700 (Indochina Time)
+        message: Column count doesn't match value count at row 1
+        stack: Error: Column count doesn't match value count at row 1
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:70:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:50:18 GMT+0700 (Indochina Time)
+        message: Column count doesn't match value count at row 1
+        stack: Error: Column count doesn't match value count at row 1
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:70:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:53:35 GMT+0700 (Indochina Time)
+        message: Column count doesn't match value count at row 1
+        stack: Error: Column count doesn't match value count at row 1
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:62:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 09:56:35 GMT+0700 (Indochina Time)
+        message: Column count doesn't match value count at row 1
+        stack: Error: Column count doesn't match value count at row 1
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:69:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:35:35 GMT+0700 (Indochina Time)
+        message: Cannot add or update a child row: a foreign key constraint fails (`xdptpm_nhom8`.`product_img`, CONSTRAINT `product_img_ibfk_1` FOREIGN KEY (`prod_id`) REFERENCES `products` (`id`))
+        stack: Error: Cannot add or update a child row: a foreign key constraint fails (`xdptpm_nhom8`.`product_img`, CONSTRAINT `product_img_ibfk_1` FOREIGN KEY (`prod_id`) REFERENCES `products` (`id`))
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:97:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:39:35 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:93:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:39:47 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:93:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:40:16 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:93:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:42:07 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:92:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:43:01 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:93:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:44:28 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:83:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:47:07 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:83:67)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:53:18 GMT+0700 (Indochina Time)
+        message: Cannot add or update a child row: a foreign key constraint fails (`xdptpm_nhom8`.`product_img`, CONSTRAINT `product_img_ibfk_1` FOREIGN KEY (`prod_id`) REFERENCES `products` (`id`))
+        stack: Error: Cannot add or update a child row: a foreign key constraint fails (`xdptpm_nhom8`.`product_img`, CONSTRAINT `product_img_ibfk_1` FOREIGN KEY (`prod_id`) REFERENCES `products` (`id`))
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:87:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:55:54 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:83:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 10:58:17 GMT+0700 (Indochina Time)
+        message: Cannot read properties of undefined (reading 'insertId')
+        stack: TypeError: Cannot read properties of undefined (reading 'insertId')
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:90:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:00:15 GMT+0700 (Indochina Time)
+        message: (intermediate value) is not iterable
+        stack: TypeError: (intermediate value) is not iterable
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:60:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:00:18 GMT+0700 (Indochina Time)
+        message: (intermediate value) is not iterable
+        stack: TypeError: (intermediate value) is not iterable
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:60:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:00:34 GMT+0700 (Indochina Time)
+        message: (intermediate value) is not iterable
+        stack: TypeError: (intermediate value) is not iterable
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:60:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:07:42 GMT+0700 (Indochina Time)
+        message: Cannot find module 'uuid'
+Require stack:
+- E:\fronend\xdptpm\backend\src\api\controllers\product.js
+- E:\fronend\xdptpm\backend\src\api\routes\product.js
+- E:\fronend\xdptpm\backend\src\server.js
+        stack: Error: Cannot find module 'uuid'
+Require stack:
+- E:\fronend\xdptpm\backend\src\api\controllers\product.js
+- E:\fronend\xdptpm\backend\src\api\routes\product.js
+- E:\fronend\xdptpm\backend\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:59:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:08:29 GMT+0700 (Indochina Time)
+        message: Cannot find module 'uuid'
+Require stack:
+- E:\fronend\xdptpm\backend\src\api\controllers\product.js
+- E:\fronend\xdptpm\backend\src\api\routes\product.js
+- E:\fronend\xdptpm\backend\src\server.js
+        stack: Error: Cannot find module 'uuid'
+Require stack:
+- E:\fronend\xdptpm\backend\src\api\controllers\product.js
+- E:\fronend\xdptpm\backend\src\api\routes\product.js
+- E:\fronend\xdptpm\backend\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:59:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:10:12 GMT+0700 (Indochina Time)
+        message: Unknown column '875ff233' in 'field list'
+        stack: Error: Unknown column '875ff233' in 'field list'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:63:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:10:57 GMT+0700 (Indochina Time)
+        message: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c5e2,
+                       'd1417c48-2732-11ef-93d3-fc34974b',
+            ...' at line 11
+        stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c5e2,
+                       'd1417c48-2732-11ef-93d3-fc34974b',
+            ...' at line 11
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:63:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:13:31 GMT+0700 (Indochina Time)
+        message: Unknown column '1110dc90' in 'field list'
+        stack: Error: Unknown column '1110dc90' in 'field list'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:63:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:13:38 GMT+0700 (Indochina Time)
+        message: Unknown column 'dfa9a9b3' in 'field list'
+        stack: Error: Unknown column 'dfa9a9b3' in 'field list'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:63:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:14:05 GMT+0700 (Indochina Time)
+        message: Unknown column 'f87e7a87' in 'field list'
+        stack: Error: Unknown column 'f87e7a87' in 'field list'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:63:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:14:06 GMT+0700 (Indochina Time)
+        message: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'b4-63a3-4b6d-a446-53a269198352,
+                       'd1417c48-2732-11ef-93...' at line 11
+        stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'b4-63a3-4b6d-a446-53a269198352,
+                       'd1417c48-2732-11ef-93...' at line 11
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:63:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:20:21 GMT+0700 (Indochina Time)
+        message: Illegal double '56e43617' value found during parsing
+        stack: Error: Illegal double '56e43617' value found during parsing
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:63:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:20:34 GMT+0700 (Indochina Time)
+        message: uuid is not defined
+        stack: ReferenceError: uuid is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:62:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Sat Jul 06 2024 11:20:47 GMT+0700 (Indochina Time)
+        message: uuid is not defined
+        stack: ReferenceError: uuid is not defined
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:62:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 16:04:14 GMT+0700 (Indochina Time)
+        message: connect ECONNREFUSED 127.0.0.1:3306
+        stack: Error: connect ECONNREFUSED 127.0.0.1:3306
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.getProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:6:33)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:8:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:346:12)
+============================================================================
+        Mon Jul 15 2024 16:30:01 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\backend\src\api\controllers\user.js:91:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:32:18
+============================================================================
+        Mon Jul 15 2024 16:55:07 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 16:55:08 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 17:00:08 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 17:00:14 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 17:00:31 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 17:00:31 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 17:00:31 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 17:01:02 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 17:01:21 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Mon Jul 15 2024 18:59:17 GMT+0700 (Indochina Time)
+        message: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+        stack: Error: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+    at Object.changePass (E:\fronend\xdptpm\backend\src\api\controllers\user.js:123:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:39:18
+============================================================================
+        Mon Jul 15 2024 18:59:57 GMT+0700 (Indochina Time)
+        message: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+        stack: Error: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+    at Object.changePass (E:\fronend\xdptpm\backend\src\api\controllers\user.js:123:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:39:18
+============================================================================
+        Mon Jul 15 2024 19:00:15 GMT+0700 (Indochina Time)
+        message: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+        stack: Error: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+    at Object.changePass (E:\fronend\xdptpm\backend\src\api\controllers\user.js:123:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:39:18
+============================================================================
+        Mon Jul 15 2024 19:03:19 GMT+0700 (Indochina Time)
+        message: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+        stack: Error: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+    at Object.changePass (E:\fronend\xdptpm\backend\src\api\controllers\user.js:123:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:39:18
+============================================================================
+        Mon Jul 15 2024 19:04:21 GMT+0700 (Indochina Time)
+        message: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+        stack: Error: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+    at Object.changePass (E:\fronend\xdptpm\backend\src\api\controllers\user.js:123:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:39:18
+============================================================================
+        Mon Jul 15 2024 19:04:53 GMT+0700 (Indochina Time)
+        message: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+        stack: Error: Mật khẩu hiện tại không đúng, Vui lòng nhập lại
+    at Object.changePass (E:\fronend\xdptpm\backend\src\api\controllers\user.js:123:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:39:18
+============================================================================
+        Mon Jul 15 2024 19:09:36 GMT+0700 (Indochina Time)
+        message: Duplicate entry '' for key 'PRIMARY'
+        stack: Error: Duplicate entry '' for key 'PRIMARY'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:118:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 19:11:13 GMT+0700 (Indochina Time)
+        message: Duplicate entry '' for key 'PRIMARY'
+        stack: Error: Duplicate entry '' for key 'PRIMARY'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:118:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 19:14:41 GMT+0700 (Indochina Time)
+        message: Duplicate entry '' for key 'PRIMARY'
+        stack: Error: Duplicate entry '' for key 'PRIMARY'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:118:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 19:15:49 GMT+0700 (Indochina Time)
+        message: Duplicate entry '' for key 'PRIMARY'
+        stack: Error: Duplicate entry '' for key 'PRIMARY'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:118:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 19:16:29 GMT+0700 (Indochina Time)
+        message: Duplicate entry '' for key 'PRIMARY'
+        stack: Error: Duplicate entry '' for key 'PRIMARY'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:118:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 19:17:58 GMT+0700 (Indochina Time)
+        message: Duplicate entry '' for key 'PRIMARY'
+        stack: Error: Duplicate entry '' for key 'PRIMARY'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:106:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 19:24:57 GMT+0700 (Indochina Time)
+        message: Duplicate entry '' for key 'PRIMARY'
+        stack: Error: Duplicate entry '' for key 'PRIMARY'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:118:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 19:26:58 GMT+0700 (Indochina Time)
+        message: Duplicate entry '' for key 'PRIMARY'
+        stack: Error: Duplicate entry '' for key 'PRIMARY'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:118:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 19:28:16 GMT+0700 (Indochina Time)
+        message: Unknown column '27ec39ec' in 'field list'
+        stack: Error: Unknown column '27ec39ec' in 'field list'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:89:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Mon Jul 15 2024 20:05:08 GMT+0700 (Indochina Time)
+        message: Unknown column 'a02fcbc6' in 'field list'
+        stack: Error: Unknown column 'a02fcbc6' in 'field list'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.addProduct (E:\fronend\xdptpm\backend\src\api\controllers\product.js:89:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\product.js:22:18
+============================================================================
+        Tue Jul 16 2024 09:36:21 GMT+0700 (Indochina Time)
+        message: id is not defined
+        stack: ReferenceError: id is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:142:14)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:36:31 GMT+0700 (Indochina Time)
+        message: id is not defined
+        stack: ReferenceError: id is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:142:14)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:36:54 GMT+0700 (Indochina Time)
+        message: id is not defined
+        stack: ReferenceError: id is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:139:33)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:37:07 GMT+0700 (Indochina Time)
+        message: id is not defined
+        stack: ReferenceError: id is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:139:28)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:37:20 GMT+0700 (Indochina Time)
+        message: id is not defined
+        stack: ReferenceError: id is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:139:30)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:37:28 GMT+0700 (Indochina Time)
+        message: u is not defined
+        stack: ReferenceError: u is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:139:28)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:38:38 GMT+0700 (Indochina Time)
+        message: u is not defined
+        stack: ReferenceError: u is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:139:28)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:45:39 GMT+0700 (Indochina Time)
+        message: u is not defined
+        stack: ReferenceError: u is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:140:19)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:46:35 GMT+0700 (Indochina Time)
+        message: u is not defined
+        stack: ReferenceError: u is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:140:19)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:47:22 GMT+0700 (Indochina Time)
+        message: u is not defined
+        stack: ReferenceError: u is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:140:19)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:47:23 GMT+0700 (Indochina Time)
+        message: u is not defined
+        stack: ReferenceError: u is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:140:19)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:48:52 GMT+0700 (Indochina Time)
+        message: u is not defined
+        stack: ReferenceError: u is not defined
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:140:19)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:421:3)
+============================================================================
+        Tue Jul 16 2024 09:49:21 GMT+0700 (Indochina Time)
+        message: Unknown column 'undefined' in 'where clause'
+        stack: Error: Unknown column 'undefined' in 'where clause'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:127:33)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+============================================================================
+        Tue Jul 16 2024 09:52:39 GMT+0700 (Indochina Time)
+        message: Unknown column '4b60421d' in 'where clause'
+        stack: Error: Unknown column '4b60421d' in 'where clause'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:127:33)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+============================================================================
+        Tue Jul 16 2024 09:52:58 GMT+0700 (Indochina Time)
+        message: Unknown column '4b60421d' in 'where clause'
+        stack: Error: Unknown column '4b60421d' in 'where clause'
+    at PromisePool.execute (E:\fronend\xdptpm\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\backend\src\api\helpers\database.js:7:34)
+    at Object.getProdUser (E:\fronend\xdptpm\backend\src\api\controllers\product.js:127:33)
+    at E:\fronend\xdptpm\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\backend\node_modules\express\lib\router\index.js:365:14)
+============================================================================
+        Tue Jul 16 2024 10:15:46 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\backend\src\api\routes\user.js:24:18
+============================================================================
+        Sun Jul 21 2024 14:33:20 GMT+0700 (Indochina Time)
+        message: connect ECONNREFUSED 127.0.0.1:3306
+        stack: Error: connect ECONNREFUSED 127.0.0.1:3306
+    at PromisePool.execute (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\helpers\database.js:7:34)
+    at Object.getProduct (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\controllers\product.js:6:33)
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\routes\product.js:8:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:346:12)
+============================================================================
+        Sun Jul 21 2024 14:33:48 GMT+0700 (Indochina Time)
+        message: Tài khoản mật khẩu không chính xác!
+        stack: Error: Tài khoản mật khẩu không chính xác!
+    at Object.login (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\controllers\user.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\routes\user.js:24:18
+============================================================================
+        Thu Jul 25 2024 08:17:38 GMT+0700 (Indochina Time)
+        message: connect ECONNREFUSED 127.0.0.1:3306
+        stack: Error: connect ECONNREFUSED 127.0.0.1:3306
+    at PromisePool.execute (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\helpers\database.js:7:34)
+    at Object.getProduct (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\controllers\product.js:6:33)
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\routes\product.js:8:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:346:12)
+============================================================================
+        Thu Jul 25 2024 08:18:10 GMT+0700 (Indochina Time)
+        message: read ECONNRESET
+        stack: Error: read ECONNRESET
+    at PromisePool.execute (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\mysql2\promise.js:374:22)
+    at Object.execute (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\helpers\database.js:7:34)
+    at Object.getProduct (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\controllers\product.js:6:33)
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\routes\product.js:8:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:346:12)
+============================================================================
+        Thu Jul 25 2024 08:50:54 GMT+0700 (Indochina Time)
+        message: controller.getProdU is not a function
+        stack: TypeError: controller.getProdU is not a function
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:421:3)
+    at next (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:280:10)
+============================================================================
+        Thu Jul 25 2024 08:50:56 GMT+0700 (Indochina Time)
+        message: controller.getProdU is not a function
+        stack: TypeError: controller.getProdU is not a function
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\routes\product.js:36:35
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:421:3)
+    at next (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\node_modules\express\lib\router\index.js:280:10)
+============================================================================
+        Thu Jul 25 2024 11:20:39 GMT+0700 (Indochina Time)
+        message: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+        stack: Error: Email này đã đăng ký, Vui lòng đăng ký bằng email khác!
+    at Object.register (E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\controllers\user.js:91:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\fronend\xdptpm\BanDoCuVnua_Nhom8_XDPTPM\server\backend\src\api\routes\user.js:32:18
